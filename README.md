@@ -5,6 +5,7 @@ Add, edit, and delete expenses and incomes
 View transaction history
 Dashboard with summary of expenses and incomes
 Technologies Used
+
 Frontend:
 
 React
